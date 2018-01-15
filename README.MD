@@ -22,7 +22,7 @@
 5. By default, `build.py` will build binaries and Magisk Manager in debug mode. If you want to build Magisk Manager in release mode (through the flag `--release`), you will need to place a Java Keystore file at `release_signature.jks` to sign Magisk Manager's APK. For more information, check out [Google's Official Documentation](https://developer.android.com/studio/publish/app-signing.html#signing-manually).
 
 
-## License
+## License test
 
 ```
 Magisk, including all git submodules are free software:
